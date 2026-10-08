@@ -1,2 +1,0 @@
-# apk-6ac788ce
-WebView APK for ST ALOYSIUS GENTS HOSTEL APP1
